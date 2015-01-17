@@ -1,2 +1,4 @@
 # xlib-examples
-some c example using xlib
+Some c example using xlib. Most are from [Fundamentals of Xlib Programming by Examples][1]
+
+  [1]: http://yenolam.com/writings/xlibbook.php
